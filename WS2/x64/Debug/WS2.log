@@ -1,0 +1,2 @@
+﻿WS2.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __cdecl matrixd::mult(class matrixd)" (?mult@matrixd@@QEAA_NV1@@Z) в функции main
+C:\Users\Mi\Desktop\Birukov\x64\Debug\WS2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

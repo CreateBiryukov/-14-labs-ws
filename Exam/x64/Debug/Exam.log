@@ -1,0 +1,8 @@
+﻿  Exam.cpp
+c:\users\mi\desktop\birukov\exam\exam.cpp(41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\mi\desktop\birukov\exam\exam.cpp(86): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\mi\desktop\birukov\exam\exam.cpp(125): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\mi\desktop\birukov\exam\exam.cpp(162): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\mi\desktop\birukov\exam\exam.cpp(176): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\mi\desktop\birukov\exam\exam.cpp(206): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Exam.vcxproj -> C:\Users\Mi\Desktop\Birukov\x64\Debug\Exam.exe

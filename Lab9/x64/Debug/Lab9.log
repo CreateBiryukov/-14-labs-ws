@@ -1,0 +1,4 @@
+﻿  Lab9.cpp
+c:\users\mi\desktop\birukov\lab9\lab9.cpp(50): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\mi\desktop\birukov\lab9\lab9.cpp(51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab9.vcxproj -> C:\Users\Mi\Desktop\Birukov\x64\Debug\Lab9.exe

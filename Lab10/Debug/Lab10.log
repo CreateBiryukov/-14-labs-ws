@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  Lab10.cpp
+Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall matrix::matrix(void)" (??0matrix@@QAE@XZ) в функции _main
+Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: virtual __thiscall matrix::~matrix(void)" (??1matrix@@UAE@XZ) в функции "public: virtual __thiscall vector::~vector(void)" (??1vector@@UAE@XZ)
+Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: virtual void __thiscall matrix::create(void)" (?create@matrix@@UAEXXZ) в функции _main
+Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: virtual void __thiscall matrix::input(void)" (?input@matrix@@UAEXXZ) в функции _main
+Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall matrix::tr(void)" (?tr@matrix@@QAEXXZ) в функции _main
+Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class matrix const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVmatrix@@@Z) в функции _main
+Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall vector::vector(void)" (??0vector@@QAE@XZ) в функции _main
+Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: virtual void __thiscall vector::create(void)" (?create@vector@@UAEXXZ) в функции _main
+Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: virtual void __thiscall vector::input(void)" (?input@vector@@UAEXXZ) в функции _main
+Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "class matrix __cdecl operator+(class matrix const &,class matrix const &)" (??H@YA?AVmatrix@@ABV0@0@Z) в функции _main
+Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "class matrix __cdecl operator*(class matrix const &,class matrix const &)" (??D@YA?AVmatrix@@ABV0@0@Z) в функции _main
+Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "double __cdecl operator*(class vector const &,class vector const &)" (??D@YANABVvector@@0@Z) в функции _main
+Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "class vector __cdecl operator*(class vector const &,int)" (??D@YA?AVvector@@ABV0@H@Z) в функции _main
+C:\Users\Mi\Desktop\Birukov\Debug\Lab10.exe : fatal error LNK1120: неразрешенных внешних элементов: 13

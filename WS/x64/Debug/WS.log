@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  WS.cpp
+c:\users\mi\desktop\birukovc++\ws\ws.cpp(3): fatal error C1083: Не удается открыть файл включение: openssl/conf.h: No such file or directory,
